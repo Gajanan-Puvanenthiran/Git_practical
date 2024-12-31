@@ -3,9 +3,11 @@ process the user data
 
 user module has login and logout features
 
-features are updated
+features are  need to be updated
 
 close mysql database connection after works have done
+
+adding more UI features
 
 
 
