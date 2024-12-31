@@ -5,7 +5,7 @@ user module has login and logout features
 
 features are updated
 
-close database connection after works have done
+close mysql database connection after works have done
 
 
 
